@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=CocoSharp:wght@400&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-poppins: Poppins;
+  --font-cocosharp: CocoSharp;
+
+  /* font sizes */
+  --font-size-sm: 12px;
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --color-gray-100: #fafafa;
+  --color-black: #000;
+  --color-white: #fff;
+  --color-steelblue: #318ec2;
+  --color-slategray: #6d7c90;
+  --color-whitesmoke: #f9f9f9;
+
+  /* border radiuses */
+  --br-sm: 10px;
+  --br-md: 14px;
+  --br-lg: 16px;
+}
